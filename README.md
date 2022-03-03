@@ -16,6 +16,9 @@ Our goal is to help show you the tools you'll be using as you dig deeper into da
 - scikit-learn for machine learning
 
 ### What will not be covered here
+- AI
+- Deep Learning
+- NOTE: The above lessons are in their repository, kindly look in the
 
 - [kindly check this repository for Machine Learning Lessons](https://github.com/Halo-Developers/Machine-Learning.git)
 
@@ -32,7 +35,6 @@ Our goal is to help show you the tools you'll be using as you dig deeper into da
 
 As the goal of this course is to help get you up to speed on Python so you can work through a quick start, the next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
 
-- [Predict flight delays by creating a machine learning model in Python](https://docs.microsoft.com/learn/modules/predict-flight-delays-with-python?WT.mc_id=python-c9-niner)
-- [Train a machine learning model with Azure Machine Learning](https://docs.microsoft.com/learn/modules/train-local-model-with-azure-mls?WT.mc_id=python-c9-niner)
-- [Analyze climate data](https://docs.microsoft.com/learn/modules/analyze-climate-data-with-azure-notebooks?WT.mc_id=python-c9-niner)
-- [Use unsupervised learning to analyze unlabeled data](https://docs.microsoft.com/learn/modules/introduction-to-unsupervised-learning?WT.mc_id=python-c9-niner)
+## Halodevs Learn Resources
+
+Rolling out soon ...
