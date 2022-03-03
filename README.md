@@ -33,7 +33,7 @@ Our goal is to help show you the tools you'll be using as you dig deeper into da
 
 ## Next steps
 
-As the goal of this course is to help get you up to speed on Python so you can work through a quick start, the next step after completing the videos is to follow a tutorial! Here's a few of our favorites:
+As the goal of this course is to help get you up to speed on Python so you can work through a quick start Here's a few of our favorites:
 
 ## Halodevs Learn Resources
 
